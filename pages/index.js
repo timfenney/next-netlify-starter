@@ -21,3 +21,5 @@ export default function Home() {
     </div>
   )
 }
+
+export const config = { amp: true }
