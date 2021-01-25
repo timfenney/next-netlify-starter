@@ -17,6 +17,11 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <div style={{
+          minHeight: 600,
+          minWidth: '100vw',
+          background: 'lightskyblue',
+        }} />
         <amp-iframe
           width="200"
           height="100"
