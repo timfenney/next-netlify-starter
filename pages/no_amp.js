@@ -21,7 +21,6 @@ export default function Home() {
         <meta property="vf:owner" content="viafoura-id:222555" />
         <meta property="vf:owner" content="loginradius:222555" />
         <meta property="vf:owner" content="cookie:12345" />
-        <script type="text/javascript" async src="//cdn-kube.vf-dev3.net/vf-v2.js" />
       </Head>
 
       <main>

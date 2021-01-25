@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Link href="/no_amp.js">
+      <Link href="/no_amp">
         <a>No AMP</a>
       </Link>
       <main>
@@ -32,7 +32,7 @@ export default function Home() {
           sandbox="allow-scripts allow-same-origin"
           layout="responsive"
           frameborder="0"
-          src="https://www.happygo.click/no_amp.js"
+          src="/no_amp.js"
         >
         </amp-iframe>
       </main>
