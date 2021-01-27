@@ -32,7 +32,7 @@ export default function Home() {
           sandbox="allow-scripts allow-same-origin"
           layout="responsive"
           frameborder="0"
-          src="/no_amp.js"
+          src="https://kube.vf-dev2.click/eng2/amp-widget-v3.html?container=hola&isAmpPage=true"
         >
         </amp-iframe>
       </main>
